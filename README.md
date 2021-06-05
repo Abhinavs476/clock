@@ -1,2 +1,2 @@
 # Python Clock
-Clock made with python
+Digital clock made with python
